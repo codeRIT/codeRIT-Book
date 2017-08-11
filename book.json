@@ -1,0 +1,14 @@
+{
+    "structure": {
+        "readme": "README.md"
+    },
+    "plugins": [
+        "styles-less",
+        "fontsettings",
+        "sharing",
+        "search"
+    ],
+    "styles": {
+        "website": "./styles/website.less"
+    }
+}
