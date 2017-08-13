@@ -9,11 +9,6 @@
         "search",
         "pdf-styling"
     ],
-    "pluginsConfig": {
-        "pdf-styling": {
-        
-        }
-    }
     "styles": {
         "website": "./styles/website.less"
     }
