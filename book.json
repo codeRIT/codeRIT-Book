@@ -7,7 +7,7 @@
         "fontsettings",
         "sharing",
         "search",
-        "youtube"
+        "videoclips"
     ],
     "styles": {
         "website": "./styles/website.less"
