@@ -10,5 +10,5 @@
 
 * What is a hackathon?
 
-  {% youtube %}qj4DQfYx2Hg{% endyoutube %}
+  {% youtube useStyle=false %}qj4DQfYx2Hg{% endyoutube %}
 
