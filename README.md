@@ -1,4 +1,3 @@
 # codeRIT
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
-
+This project is open to modifications adhering to the [Major League Hacking Project Code of Conduct](CoC.md)
