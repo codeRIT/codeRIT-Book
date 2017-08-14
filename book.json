@@ -3,8 +3,7 @@
         "readme": "README.md"
     },
     "plugins": [
-        "videoclips",
-        "styles-less"
+        "videoclips"
     ],
     "styles": {
         "website": "assets/stylesheets/website.css"
