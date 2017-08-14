@@ -4,7 +4,7 @@
     },
     "plugins": [
         "videoclips",
-        "style-less"
+        "styles-less"
     ],
     "styles": {
         "website": "./styles/website.less"
