@@ -18,7 +18,7 @@
 }
 
 .book .book-summary ul.summary {
-  background: #f98728;
+  background: #ce5f15;
 }
 
 .book .book-summary ul.summary li span {
@@ -45,7 +45,7 @@
 .book > .book-summary > #book-search-input > input,
 .book > .book-summary > #book-search-input > input:focus,
 .book > .book-summary > #book-search-input > input:hover {
-  color: #353535;
+  color: #;
   text-align: center;
 }
 
