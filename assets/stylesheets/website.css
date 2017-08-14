@@ -1,8 +1,3 @@
-@font-face {
-    font-family: "MLH Outage";
-    src: url("/assets/fonts/outage.ttf");
-}
-
 /* Summary */
 
 .book .book-summary ul.summary > li:first-child {
@@ -23,7 +18,7 @@
 }
 
 .book .book-summary ul.summary {
-  background: #353535;
+  background: #f98728;
 }
 
 .book .book-summary ul.summary li span {
@@ -69,7 +64,6 @@
 /* Content */
 
 .book .book-body .page-wrapper .page-inner h1 {
-  font-family: "MLH Outage", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .book .book-body .page-wrapper .page-inner section.normal a {
