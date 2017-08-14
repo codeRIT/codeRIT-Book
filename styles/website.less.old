@@ -1,0 +1,86 @@
+.book .book-summary ul.summary > li:first-child {
+  display: none;
+}
+.book > .book-summary > #book-search-input > input,
+.book > .book-summary > #book-search-input > input:focus,
+.book > .book-summary > #book-search-input > input:hover {
+  color: #353535;
+  text-align: center;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal a {
+  color: #318CE7;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal a:focus,
+.book .book-body .page-wrapper .page-inner section.normal a:hover {
+  color: #0047AB;
+}
+
+/* Header */
+
+.btn.pull-right,
+.dropdown.pull-right {
+  display: none !important;
+}
+
+.dropdown-menu .buttons:nth-child(1) .button,
+.dropdown-menu .buttons:last-child .button {
+  display: none;
+}
+
+.book .book-summary ul.summary {    
+    background: #194774;    
+}
+
+
+
+.book .book-summary ul.summary li a:hover,
+.book .book-summary ul.summary li.active > a {
+  color: #f3852a;
+}
+.book-summary ul.summary li.active>a {
+    font-weight: bolder;
+    color: #f3852a;
+}
+.book-summary ul.summary li>a {
+    color: white;
+    text-transform: uppercase;
+}
+.book-summary ul.summary li>a:hover {
+    text-decoration-color: #f3852a;
+}
+.book .book-body .page-wrapper .page-inner {
+    background: white;
+}
+.book-body .body-inner {
+    background-image: url(/gitbook/images/coderit_background.png);
+}
+.book-header .btn {
+    color: white;
+}
+.book-header .btn:hover {
+    color: #f3852a;
+}
+.navigation.navigation-unique {
+    background: #194774;
+    color: white;
+}
+.navigation.navigation-unique:hover{
+    color: #f3852a
+}
+.book.with-summary .book-body {
+    background: #194774;
+}
+.book-body {
+ 
+    background-image: url("/gitbook/images/coderit_background.png");   background: #194774;
+}
+.book-header {
+    font-weight: bolder;
+    background: #194774;
+    color: #f3852a;
+}
+.body {
+    background-image: url("/gitbook/images/coderit_background.png");
+}
