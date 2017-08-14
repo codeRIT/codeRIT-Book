@@ -1,6 +1,6 @@
 # Summary
 
-* [CodeRIT](CodeRIT.md)
+* codeRIT
   * [Elections](Elections.md)
   * [President](President.md)
   * [Vice President](VicePresident.md)
@@ -12,7 +12,7 @@
   * [Sponsorship](Sponsorship.md)
   * [Travel](Travel.md)
   * [Marketing](Marketing)
-* [Resources and Links](Resources.md)
+* Resources
   * [Videos](Videos.md)
   * [Files](Files.md)
   * [Others](Others.md)
