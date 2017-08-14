@@ -7,6 +7,6 @@
         "styles-less"
     ],
     "styles": {
-        "website": "assets/stylesheets/website.less"
+        "website": "assets/stylesheets/website.css"
     }
 }
