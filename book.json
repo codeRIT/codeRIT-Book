@@ -3,10 +3,6 @@
         "readme": "README.md"
     },
     "plugins": [
-        "styles-less",
-        "fontsettings",
-        "sharing",
-        "search",
         "videoclips"
     ],
     "styles": {
