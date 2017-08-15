@@ -2,4 +2,4 @@
 
 # It is more than just hackathons...
 
-codeRIT is a multidisciplinary community that promotes diversity, inclusion, and growth. Our passionate members teach the community valuable skills all the time! This content is accessible  during our weekly [meetings](codeRIT/Meetings.md) and often made available to our community [online](Resources/Resources.md).
+codeRIT is a multidisciplinary community that promotes diversity, inclusion, and growth. Our passionate members teach the community valuable skills all the time! This content is accessible  during our weekly [meetings](codeRIT/Meetings.md) and often made available to our community [online](../Resources/Resources.md).
