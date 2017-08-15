@@ -8,7 +8,6 @@
 ## Websites/Services
 
 * [The MLH Hackathon Organizer Guide](https://guide.mlh.io/)
-  * ​
 
 ## Video Resources
 
