@@ -5,42 +5,40 @@
 1. Edit or Create FileName.md in [Github Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 2. Add FileName to the Summary file (if not included)
 3. Create a pull request 
-4. You did it! :sparkling_heart:
-
-
+4. You did it! :sparkling_heart: 
 
 
 ## Software
 
 ### Web
-* [Dillinger][http://dillinger.io/]
-* [StackEdit][https://stackedit.io/editor]
-* [Github.io project][https://jbt.github.io/markdown-editor/]
+* [Dillinger](http://dillinger.io/)
+* [StackEdit](https://stackedit.io/editor)
+* [Github.io project](https://jbt.github.io/markdown-editor/)
 
 ###Desktop
 * [Typora](https://typora.io/)
-* [MarkRight][https://github.com/dvcrn/markright]
-* [Atom][https://atom.io/]
+* [MarkRight](https://github.com/dvcrn/markright)
+* [Atom](https://atom.io/)
 
 ### Windows
-* [Markdown Edit][http://markdownedit.com/]
-* [MarkdownPad]][http://markdownpad.com/]
+* [Markdown Edit](http://markdownedit.com/)
+* [MarkdownPad](http://markdownpad.com/)
 
 ### Mac
 
-* [MacDown][https://macdown.uranusjr.com/]
+* [MacDown](https://macdown.uranusjr.com/)
 
 
-* [iA Writer (also on iOS and Android)][https://ia.net/writer/]
+* [iA Writer (also on iOS and Android)](https://ia.net/writer/)
 
 ### Linux
 
-* [Remarkable (also on Windows)][https://remarkableapp.github.io]
-* [UberWriter][http://uberwriter.wolfvollprecht.de/]
+* [Remarkable (also on Windows)](https://remarkableapp.github.io)
+* [UberWriter](http://uberwriter.wolfvollprecht.de/)
 
-### More
+###[More can be found here](https://github.com/karthik/markdown_science/wiki/Tools-to-support-your-markdown-authoring)
 
-* https://github.com/karthik/markdown_science/wiki/Tools-to-support-your-markdown-authoring
+
 
 All contributors and maintainers of this guide, in the interest of fostering an open and welcoming community, are required to adhere to the [Major League Hacking Code of Conduct](MLHCoC.md)
 
