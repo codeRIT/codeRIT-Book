@@ -27,8 +27,8 @@
 
 * [Trello](trello.com)
 * [Google Drive](drive.google.com)
-* [EventBrite](eventbrite.com)
-* [MeetUp][meetup.com]
+* [EventBrite](eventbrite.com);
+* [MeetUp](meetup.com)
 
 
 
