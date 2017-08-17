@@ -13,8 +13,5 @@
   * [Travel](BrickHack/Travel.md)
   * [Marketing](BrickHack/Marketing)
 * [Resources](Resources/Resources.md)
-  * [Videos](Resources/Videos.md)
-  * [Files](Resources/Files.md)
-  * [Others](Resources/Others.md)
 
 
