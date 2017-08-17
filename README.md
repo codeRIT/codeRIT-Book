@@ -4,11 +4,11 @@
 
 [CodeRIT](codeRIT/codeRIT.md) is RIT's [Hackathon](BrickHack/BrickHack.md) club! It is chock-full of interesting and diverse people with a passion for technology. Hackers often contribute to our organization with [Hacktorials](Resources/Resources.md#Channels)
 
-#What is a Hacker?...
+# What is a Hacker?...
 
 A hacker is someone who learns by doing. Hackers have an insatiable passion for learning and creating. Hackers contribute to various aspects of society every day. Anybody can be a hacker.
 
-#Contributing to the guide
+# Contributing to the guide
 
 1. Edit or Create FileName.md in [Github Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 2. Add FileName to the Summary file (if not included)
@@ -23,7 +23,7 @@ A hacker is someone who learns by doing. Hackers have an insatiable passion for 
 * [StackEdit](https://stackedit.io/editor)
 * [Github.io project](https://jbt.github.io/markdown-editor/)
 
-###Desktop
+### Desktop
 * [Typora](https://typora.io/)
 * [MarkRight](https://github.com/dvcrn/markright)
 * [Atom](https://atom.io/)
@@ -44,7 +44,7 @@ A hacker is someone who learns by doing. Hackers have an insatiable passion for 
 * [Remarkable (also on Windows)](https://remarkableapp.github.io)
 * [UberWriter](http://uberwriter.wolfvollprecht.de/)
 
-###[More can be found here](https://github.com/karthik/markdown_science/wiki/Tools-to-support-your-markdown-authoring)
+### [More can be found here](https://github.com/karthik/markdown_science/wiki/Tools-to-support-your-markdown-authoring)
 
 
 
