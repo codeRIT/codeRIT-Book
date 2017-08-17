@@ -2,7 +2,7 @@
 
 codeRIT elections are reliant on community participation.
 
-The four e-board positions ([President][President.md], [Vice President][VicePresident.md], [Secretary][Secretary.md], [Treasurer][Treasurer.md]) are to be elected, after a brief campaigning period, collectively by the community members. This should be a public and democratic process.
+The four e-board positions ([President](President.md), [Vice President](VicePresident.md), [Secretary](Secretary.md), [Treasurer](Treasurer.md) are to be elected, after a brief campaigning period, collectively by the community members. This should be a public and democratic process.
 
 
 
