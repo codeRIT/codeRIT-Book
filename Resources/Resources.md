@@ -39,4 +39,4 @@
 * [Major League Hacking](https://www.youtube.com/channel/UCBYaqTVeO-oQW2AlmZVj-Fg)
   * [HackCon Presentations](https://www.youtube.com/user/MajorLeagueHackingTV/playlists?shelf_id=2&view=50&sort=dd)
 * [codeRIT](https://www.youtube.com/channel/UCz3-V8NNSXZM_fUEh-kAptA)
-  * [Hacktorials][https://www.youtube.com/playlist?list=PL0Qb-H0Sg_QghsTjP7_DGMhzuFade84fo]
+  * [Hacktorials](https://www.youtube.com/playlist?list=PL0Qb-H0Sg_QghsTjP7_DGMhzuFade84fo)
