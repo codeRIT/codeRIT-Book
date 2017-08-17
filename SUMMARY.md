@@ -11,7 +11,7 @@
   * [Logistics](BrickHack/Logistics.md)
   * [Sponsorship](BrickHack/Sponsorship.md)
   * [Travel](BrickHack/Travel.md)
-  * [Marketing](BrickHack/Marketing)
+  * [Marketing](BrickHack/Marketing.md)
 * [Resources](Resources/Resources.md)
 
 
