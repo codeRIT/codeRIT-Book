@@ -4,7 +4,7 @@
 
 ##What is BrickHack?...
 
-* RIT's Flagship [Hackathon](#What is a Hackathon?...)
+* RIT's Flagship Hackathon
 * A 24 hour innovation competition
 
 ##What is a Hackathon?...

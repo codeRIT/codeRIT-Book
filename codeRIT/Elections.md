@@ -8,5 +8,5 @@ The four e-board positions ([President](President.md), [Vice President](VicePres
 
 ## Continuity
 
-For continuity's sake, In the case of an unexpected departure,  a current e-board member may fill a high priority vacancy. In this case the e-board should elect a community member to the  
+For continuity's sake, In the case of an unexpected departure or a lack of candidates,  a current e-board member may fill a high priority vacancy when needed. In this case the e-board should elect a community member to the newly vacated position.
 
